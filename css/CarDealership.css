@@ -15,6 +15,7 @@ This is the css page for the car dealership
     
 ul{
     list-style: none;
+	margin-left: 14%;
 }
 
 #menu ul li{
